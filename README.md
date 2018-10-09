@@ -17,7 +17,7 @@ Arduino NANO. All the components chosen to be low weight and low power (minimize
 the influence on the kid natural walking.
 
 # Demo
-![](https://i.imgur.com/ptEnEYt.gif)
+![](https://i.imgur.com/Fd4MOkT.gif)
 
 Project Members: 
 - Assaf Dauber
