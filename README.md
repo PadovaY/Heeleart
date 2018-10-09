@@ -24,4 +24,7 @@ Project Members:
 
 ![](https://i.imgur.com/kr5D8WS.jpg)
 
+# About This Repo
+The repo contains only the layots used to demonstrate the device capabilities. The Arduino code and the designed assets are not shared.
+
  
