@@ -18,6 +18,9 @@ by an accelerometer and pressure sensor sampled at 250Hz.  Analysing the data an
 Arduino NANO. All the components chosen to be low weight and low power (minimize battery size) to minimize 
 the influence on the kid natural walking.
 
+# Demo
+![](https://i.imgur.com/ptEnEYtl.gif)
+
 Project Members: 
     Assaf Dauber
     Yuval Padova	
