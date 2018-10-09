@@ -24,8 +24,9 @@ Project Members:
 
 ![](https://i.imgur.com/kr5D8WS.jpg)
 
-# Excellent Engineering Project Award winner 
-![](https://scontent.fhfa1-2.fna.fbcdn.net/v/t1.0-9/35235771_2247660858579155_7025457557175009280_n.jpg?_nc_cat=100&oh=7cadbc8ae314daaa85ee422105fb31b4&oe=5C4BA90B){:height="50%" width="50%"}
+# Excellent Engineering Project Award winner
+![test image size](https://scontent.fhfa1-2.fna.fbcdn.net/v/t1.0-9/35235771_2247660858579155_7025457557175009280_n.jpg?_nc_cat=100&oh=7cadbc8ae314daaa85ee422105fb31b4&oe=5C4BA90B){:class="img-responsive"}
+![test image size](https://scontent.fhfa1-2.fna.fbcdn.net/v/t1.0-9/35235771_2247660858579155_7025457557175009280_n.jpg?_nc_cat=100&oh=7cadbc8ae314daaa85ee422105fb31b4&oe=5C4BA90B){:height="50%" width="50%"}
 
 # About This Repo
 The repo contains only the layots used to demonstrate the device capabilities. The Arduino code and the designed assets are not shared.
