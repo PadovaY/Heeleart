@@ -1,6 +1,6 @@
 # Heelaert | Detection & Alert of “Equinus Gait” Anomaly for CP Children
 
-![](https://i.imgur.com/EAhDqJP.jpg)
+![Imgur](https://i.imgur.com/EAhDqJPl.jpg)
 
 Equinus gait is a condition cerebral palsy (CP) kids suffers from, which results in toe-walking.   
 For children, practicing properly walking without supervision can be difficult and their inattention
