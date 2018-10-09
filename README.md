@@ -18,7 +18,7 @@ the influence on the kid natural walking.
 
 # Demo
 ![](https://i.imgur.com/Fd4MOkT.gif)
-
+https://i.imgur.com/Fd4MOkT.gif
 Project Members: 
 - Assaf Dauber
 - Yuval Padova	
