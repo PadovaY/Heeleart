@@ -1,4 +1,4 @@
-# Heelaert | Detection & Alert of “Equinus Gait” Anomaly for CP Children
+## Heelaert | Detection & Alert of “Equinus Gait” Anomaly for CP Children
 
 ![Imgur](https://i.imgur.com/EAhDqJPl.jpg)
 
@@ -22,8 +22,8 @@ the influence on the kid natural walking.
 ![](https://i.imgur.com/ptEnEYt.gif)
 
 Project Members: 
-    Assaf Dauber
-    Yuval Padova	
+- Assaf Dauber
+- Yuval Padova	
 
 ![](https://i.imgur.com/kr5D8WSl.jpg)
 
