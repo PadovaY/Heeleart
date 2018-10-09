@@ -26,6 +26,7 @@ Project Members:
 
 # Excellent Engineering Project Award winner
 ![](https://i.imgur.com/Wvw4Ri1l.jpg)
+
 # About This Repo
 The repo contains only the layots used to demonstrate the device capabilities. The Arduino code and the designed assets are not shared.
 
