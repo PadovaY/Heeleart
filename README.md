@@ -22,7 +22,7 @@ Project Members:
     Assaf Dauber
     Yuval Padova	
 
-![](https://i.imgur.com/kr5D8WSm.jpg)
+![](https://i.imgur.com/kr5D8WSl.jpg)
 
 # Excellent Engineering Project Award winner
 ![](https://i.imgur.com/Wvw4Ri1l.jpg)
